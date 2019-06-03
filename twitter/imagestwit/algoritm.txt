@@ -1,0 +1,33 @@
+1 Связаться со школой+
+2 Подойти  по адресу+
+3 Представиться , что он ревизор+
+4 Попросить  и прочитать журнал+
+5 Сделать вывод
+<?php
+
+    $database = [
+  		[
+  		"text" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia assumenda temporibus vel, accusamus quis ipsa deserunt iusto voluptatem asperiores itaque. Quidem praesentium porro id recusandae nam illo odio, error atque!",
+  		"account_image" =>"post1.jpg",
+  		"account_name"=>"Habr",
+  		"account_link"=>"habr.jpg"
+  		],
+
+  		[
+		"text"=>"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia assumenda temporibus vel, accusamus quis ipsa deserunt iusto voluptatem asperiores itaque. Quidem praesentium porro id recusandae nam illo odio, error atque!",
+  		"account_image"=>"post1.jpg",
+  		"account_name"=>"Beka",
+  		"account_link"=>"habr.jpg"
+      
+  		],
+
+  		[
+  		"text"=>"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia assumenda temporibus vel, accusamus quis ipsa deserunt iusto voluptatem asperiores itaque. Quidem praesentium porro id recusandae nam illo odio, error atque!",
+  		"account_image"=>"post1.jpg",
+  		"account_name"=>"luba",
+  		"account_link"=>"habr.jpg"
+  		]
+  	
+
+    ];
+   ?>
